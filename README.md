@@ -3,10 +3,10 @@ This project is a simple implementation of augmented reality! It allows the user
 
 ### Final result video link:
 
-Input 1:
+Output 1:
 https://www.youtube.com/watch?v=cBnWWU_FfEU
 
-Input 2:
+Output 2:
 https://www.youtube.com/watch?v=zpSnsCN3nwc
 
 [A preview of the final results!]
