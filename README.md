@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=cBnWWU_FfEU
 Output 2:
 https://www.youtube.com/watch?v=zpSnsCN3nwc
 
-[A preview of the final results!]
+A preview of the final results! (2x2x2 cube)
 <img width="951" alt="Screen Shot 2023-02-23 at 6 18 46 PM" src="https://user-images.githubusercontent.com/53490165/220842033-a36d6d4d-e66c-4746-8c2e-b66d3c41c421.png">
 
 ### Point Tracking w/ world coordinates denoted
