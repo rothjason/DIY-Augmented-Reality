@@ -151,7 +151,6 @@ def calibrate_camera_matrix(world_pts, img_pts):
     lsq = lsq.reshape((3, 4))
     return lsq
 
-# write this later
 def render_box(video_input, world_pts, img_pts_list, out_video_name):
     big_cube_pts = [[0,0,0,1], [0,2,0,1], [2,2,0,1], [2,0,0,1],
             [0,0, 2,1],[0,2,2,1],[2,2,2,1],[2,0,2,1]]
