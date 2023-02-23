@@ -1,5 +1,5 @@
 # DIY Augmented Reality!
-This project is a simple implementation of augmented reality! It allows the user to upload their own video of a box with 3D grid points, select those points to track throughout the video, and will draw a cube (or any desired shape) on top of it! Below are the input videos, the intermediary tracking of the points, and the final projection of a 3D cube into the video!
+This project is a simple implementation of augmented reality! It allows the user to upload their own video of a box with 3D grid points, select those points to track throughout the video, and will draw a cube (or any desired shape) on top of it! Below are the final results videos plus the intermediary steps (point tracking and world-coordinate labeling)!
 
 ### Final result video link:
 
